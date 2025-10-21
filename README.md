@@ -7,6 +7,10 @@
 [![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)](https://angular.io/)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE)
 
+## ABOUT ME
+Я хз, какой из двух файлов READMY редактировать, но пусть этот файл тоже затрону.
+Меня зовут Егор К.
+
 ## Course Overview
 
 Frontend development course covering HTML, CSS, JavaScript, TypeScript, and Angular.
