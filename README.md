@@ -9,7 +9,7 @@
 
 ## ABOUT ME
 Я хз, какой из двух файлов READMY редактировать, но пусть этот файл тоже затрону.
-Меня зовут Егор К.
+[Обо мне](https://github.com/karpovegor570-blip/course/blob/main/lesson_1/README.md)
 
 ## Course Overview
 
